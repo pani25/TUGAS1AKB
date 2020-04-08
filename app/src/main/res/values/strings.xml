@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TUGAS1AKB</string>
+    <string name="mulai">Mulai</string>
+    <string name="masuk">Masuk</string>
+    <string name="name">Name</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="contoh_12">Contoh:12</string>
+    <string name="contoh_budi">Contoh:Budi</string>
+    <string name="oke">Oke</string>
+</resources>
